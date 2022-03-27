@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d82df6b9-7f23-9698-5d55-3d1d5db8b8fd
 resourcetype: Document
 title: lec330_pt1.pdf
 uid: 2bea41dd-bb7e-fcf6-6b47-5351cb99aed1
