@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about required readings, reading associated
+  with topics, and supplemental readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

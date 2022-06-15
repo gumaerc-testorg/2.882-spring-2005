@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about the lecture files as per the
+  topics covered in the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ Lecture notes
 Introduction to Axiomatic Design
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec202))
+({{% resource_link 76f82abf-6d0f-21c9-1602-5c9fd2c79e84 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ Introduction to Axiomatic Design
 Information Content and Robustness
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec214))
+({{% resource_link 4c4466cd-3025-702b-1e5e-e110079352d2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +59,7 @@ Information Content (cont.)
 Project Discussion
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec216))
+({{% resource_link 221b98f6-1ce9-0bce-4dc9-fab2ebcdbb71 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,9 +83,9 @@ Multi-FR Design
 Information Content (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec228))  
+({{% resource_link fb177eda-b6fe-68a8-e929-89267c151e8b "PDF" %}})  
   
-Supplementary Lecture Note ([PDF]({{< baseurl >}}/resources/lec228_supplemnt))
+Supplementary Lecture Note ({{% resource_link 8e227979-1333-a2d0-2141-58e2731253a4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +97,7 @@ Supplementary Lecture Note ([PDF]({{< baseurl >}}/resources/lec228_supplemnt))
 Design of Systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec309))
+({{% resource_link eab7387d-f28f-bf6c-9e36-d3c351a61932 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,7 +121,7 @@ Guest Lecture
 Design of Manufacturing Systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec328))
+({{% resource_link 93496983-b4a0-628e-2c5b-2012ebff2c47 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,9 +135,9 @@ Axiomatic Design of Manufacturing Systems
 Case Study - Complex System Design (NASA / Project)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/lec330_pt1))  
+({{% resource_link 2bea41dd-bb7e-fcf6-6b47-5351cb99aed1 "PDF 1" %}})  
   
-([PDF 2]({{< baseurl >}}/resources/lec330_pt2))
+({{% resource_link 034f7027-a6e8-c5f5-e982-ae19fad6e401 "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,7 +151,7 @@ Complexity I
 Project Discussion
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1 MB]({{< baseurl >}}/resources/lec404))
+({{% resource_link fd4f0c29-134e-8704-d2a4-110d9383e6da "PDF - 1.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +163,7 @@ Project Discussion
 Complexity II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec406))
+({{% resource_link 7ed8510e-0d2e-e83c-35c8-e3bd5b7b0c2a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -173,7 +175,7 @@ Complexity II
 Complexity Review
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec420))
+({{% resource_link 8a579f9e-6378-1cc2-785b-d67d269ebfbc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -185,7 +187,7 @@ Complexity Review
 Reduction of Complexity with Geometric Functional Periodicity
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec425))
+({{% resource_link 24919c01-37c9-45e2-732e-a746183230b5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,7 +201,7 @@ Reduction of Complexity in Materials through Functional Periodicity
 Visit to Tribotek, Inc.
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec427))
+({{% resource_link 8efe7a9d-9c74-f4b7-84f6-1462ce374a86 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +213,7 @@ Visit to Tribotek, Inc.
 Complexity of Socio-Economic Political Systems: Application of Functional Periodicity
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lec429))
+({{% resource_link dbe4abde-75e6-4612-0a9c-e4937ef89b3f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -223,7 +225,7 @@ Complexity of Socio-Economic Political Systems: Application of Functional Period
 Cost Engineering in Axiomatic Design
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6 MB]({{< baseurl >}}/resources/lec502))
+({{% resource_link a453c31a-64f9-3993-3e3d-0325780e7496 "PDF - 1.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

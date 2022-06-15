@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides information about chapterwise suggested problems.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
