@@ -6,6 +6,7 @@ file: /courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theor
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec228_supplemnt.pdf
 uid: 8e227979-1333-a2d0-2141-58e2731253a4
 ---
 This resource provides information about information content for one-FR problem, and information content for multi-FR problem.
-

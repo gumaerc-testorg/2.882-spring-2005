@@ -7,6 +7,7 @@ file: /courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theor
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec330_pt2.pdf
 uid: 034f7027-a6e8-c5f5-e982-ae19fad6e401
 ---
 This resource provides information for about evolution of cost, quality and worker?s satisfaction, CIRP definition of manufacturing system, and axiomatic design steps.
-
