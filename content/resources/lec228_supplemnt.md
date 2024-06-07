@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides information about information content for one-FR
   problem, and information content for multi-FR problem.
 file: /courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/8e2279791333a2d0214158e2731253a4_lec228_supplemnt.pdf
+file_size: 398765
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
