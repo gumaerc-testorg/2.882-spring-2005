@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information about introduction to manufacturing
   system, driving forces for manufacturing systems, numerical control machine tool
   in 1951, and CIRP definition of manufacturing system.
-file: /ol-ocw-studio-app/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/2bea41ddbb7efcf66b475351cb99aed1_lec330_pt1.pdf
+file: /courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/2bea41ddbb7efcf66b475351cb99aed1_lec330_pt1.pdf
 file_size: 466803
 file_type: application/pdf
 learning_resource_types:
